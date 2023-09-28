@@ -1,6 +1,6 @@
 # Django REST Starter
 
-Welcome to Django REST Starter! This repository provides a starting point for building RESTful APIs using the Django REST framework
+Welcome to vidCash ! Built using RESTful APIs using the Django REST framework
 
 ## File Structure
 ```
